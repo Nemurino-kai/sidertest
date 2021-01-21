@@ -6,5 +6,5 @@ rules:
     message: Delete debug print
   - id: sapceing.after_comma
       pattern:
-        - ,[^ ]
+        - ",[^ ]"
         message: spacing after comma
