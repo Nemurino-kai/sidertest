@@ -1,5 +1,0 @@
-linter:
-  querly:
-    gems:
-      - slim
-    config: .config/querly.yml
